@@ -31,8 +31,8 @@ announcements = [
     {
         "channel": "公告",
         "entries": [
-            {"name": "更新日期", "url": "http://159.75.85.63:35455/huya/11282233", "logo": "http://175.178.251.183:6689/LR.jpg"},
-            {"name": None, "url": "http://159.75.85.63:35455/huya/11342387", "logo": "http://175.178.251.183:6689/LR.jpg"}
+            {"name": "更新日期", "url": "http://em.21dtv.com/songs/60021927.mkv", "logo": "http://175.178.251.183:6689/LR.jpg"},
+            {"name": None, "url": "http://em.21dtv.com/songs/60021927.mkv", "logo": "http://175.178.251.183:6689/LR.jpg"}
   ]
     }
 ]
