@@ -1,6 +1,8 @@
 ip_version_priority = "ipv6"
 
 source_urls = [
+    "https://xpb.mhfs.eu.org/HZ.txt",
+    "https://api.xn--qoqw77q.top/epg/live.php",
     "https://raw.githubusercontent.com/MemoryCollection/IPTV/refs/heads/main/itvlist.txt",
     "https://raw.githubusercontent.com/kimwang1978/collect-tv-txt/main/merged_output.txt"
     "https://raw.githubusercontent.com/xiongjian83/iptv/main/speedtest/zubo.txt",
