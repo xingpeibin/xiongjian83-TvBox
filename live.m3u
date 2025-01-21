@@ -1,7 +1,7 @@
 #EXTM3U x-tvg-url="https://live.fanmingming.com/e.xml","http://epg.51zmt.top:8000/e.xml","http://epg.aptvapp.com/xml","https://epg.pw/xmltv/epg_CN.xml","https://epg.pw/xmltv/epg_HK.xml","https://epg.pw/xmltv/epg_TW.xml"
 #EXTINF:-1 tvg-id="1" tvg-name="更新日期" tvg-logo="http://175.178.251.183:6689/LR.jpg" group-title="公告",更新日期
 https://xpb.mhfs.eu.org/ds.mp4
-#EXTINF:-1 tvg-id="1" tvg-name="2025-01-21" tvg-logo="http://175.178.251.183:6689/LR.jpg" group-title="公告",2025-01-21
+#EXTINF:-1 tvg-id="1" tvg-name="2025-01-22" tvg-logo="http://175.178.251.183:6689/LR.jpg" group-title="公告",2025-01-22
 https://xpb.mhfs.eu.org/ds.mp4
 #EXTINF:-1 tvg-id="1" tvg-name="汕头综合" tvg-logo="https://live.fanmingming.com/tv/汕头综合.png" group-title="📡  潮汕频道",汕头综合
 http://125.89.163.44:8888/udp/239.77.1.130:5146$LR•IPV4『线路1』
