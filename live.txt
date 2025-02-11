@@ -1,6 +1,6 @@
 公告,#genre#
 更新日期,https://xpb.mhfs.eu.org/ds.mp4
-2025-02-11,https://xpb.mhfs.eu.org/ds.mp4
+2025-02-12,https://xpb.mhfs.eu.org/ds.mp4
 📡  潮汕频道,#genre#
 汕头综合,http://125.89.163.44:8888/udp/239.77.1.130:5146$LR•IPV4『线路1』
 汕头综合,http://14.19.151.0:9900/udp/239.77.1.130:5146$LR•IPV4『线路2』
